@@ -1,4 +1,4 @@
-# ejemplo-react
+# TRES EN RAYA
 Demo react
 
 EXPLICACIÓN DEL COMPONENTE SQURE
